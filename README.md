@@ -1,6 +1,6 @@
 # Fritzing-Parts
 
-[Particle](https://www.particle.io/) Third Generation parts for [Fritzing](http://fritzing.org)
+[Particle](https://www.particle.io/) Mesh Third Generation parts for [Fritzing](http://fritzing.org)
 
 Released under CC Attribution Share-Alike
 
