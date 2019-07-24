@@ -13,3 +13,5 @@ Parts created based on starting files from [Adafruit Library](https://github.com
 To use the entire library of all three parts, download and open the "Particle Mesh Parts.fzpz". If you want to save it to your Fritzing library, choose *Save Bin*
 
 To access individual parts, go to [Board]\Fritzing\[Board].fzpz
+
+Thanks to help from the [Sparkfun](https://learn.sparkfun.com/tutorials/make-your-own-fritzing-parts/all#breadboard-view---parts-editor) Fritzing Instructions
