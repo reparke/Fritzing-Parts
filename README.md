@@ -15,3 +15,5 @@ To use the entire library of all three parts, download and open the "Particle Me
 To access individual parts, go to [Board]\Fritzing\[Board].fzpz
 
 Thanks to help from the [Sparkfun](https://learn.sparkfun.com/tutorials/make-your-own-fritzing-parts/all#breadboard-view---parts-editor) Fritzing Instructions
+
+SVG files modified with [Inkscape](https://inkscape.org/)
