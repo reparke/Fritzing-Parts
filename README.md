@@ -1,4 +1,4 @@
-# Fritzing-Parts
+# Particle Mesh Fritzing Library
 
 [Particle](https://www.particle.io/) Mesh Third Generation parts for [Fritzing](http://fritzing.org)
 
