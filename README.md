@@ -12,7 +12,7 @@ Parts created based on starting files from [Adafruit Library](https://github.com
 
 ### To install all three parts
 
-- Download the entire library by clicking https://github.com/reparke/Fritzing-Parts/archive/master.zip
+- Download the entire library by clicking [https://github.com/reparke/Fritzing-Parts/archive/master.zip](https://github.com/reparke/Fritzing-Parts/archive/master.zip)
 - Unzip the file and open `Particle_Mesh_Parts.fzpz`
 - If you want to save it to your Fritzing library, choose *Save Bin*
 
@@ -20,7 +20,7 @@ Parts created based on starting files from [Adafruit Library](https://github.com
 
 ### To install only individual parts
 
-- Download the entire library by clicking https://github.com/reparke/Fritzing-Parts/archive/master.zip
+- Download the entire library by clicking [https://github.com/reparke/Fritzing-Parts/archive/master.zip](https://github.com/reparke/Fritzing-Parts/archive/master.zip)
 - Unzip the file and the open `[Board]\Fritzing\[Board].fzpz` where `[Board]` is the part you want to install
 - If you want to save it to your Fritzing library, choose *Save Bin
 
