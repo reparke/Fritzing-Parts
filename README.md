@@ -4,6 +4,8 @@
 
 Released under CC Attribution Share-Alike
 
+You can download the entire library by clicking https://github.com/reparke/Fritzing-Parts/raw/master/Particle%20Mesh%20Parts.fzbz
+
 Parts created based on starting files from [Adafruit Library](https://github.com/adafruit/Fritzing-Library) and [Particle Documentation](https://github.com/particle-iot/docs)
 
 - [Argon](https://docs.particle.io/argon/)
