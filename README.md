@@ -31,8 +31,13 @@ Parts created based on starting files from [Adafruit Library](https://github.com
 - If you want to save it to your Fritzing library, choose **Save Bin**
 - Unzip the file (take note of the folder location)
 
+
+
 Thanks to help from the [Sparkfun](https://learn.sparkfun.com/tutorials/make-your-own-fritzing-parts/all#breadboard-view---parts-editor) Fritzing Instructions
 
 SVG files modified with [Inkscape](https://inkscape.org/)
 
-Released under CC Attribution Share-Alike
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under a
+[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
