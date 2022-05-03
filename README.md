@@ -23,7 +23,7 @@ Parts created based on starting files from [Adafruit Library](https://github.com
 
 ### To install only individual parts
 
-- Download the entire library by clicking [https://github.com/reparke/Fritzing-Parts/archive/master.zip](https://github.com/reparke/Fritzing-Parts/archive/master.zip)
+- Download the entire library by clicking [https://github.com/reparke/Fritzing-Parts/archive/main.zip](https://github.com/reparke/Fritzing-Parts/archive/main.zip)
 - Unzip the file  (take note of the folder location)
 - Open Fritzing
 - On **Parts** panel on the right side of the screen, click the small dropdown menu and choose **Import...**
